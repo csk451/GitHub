@@ -1,5 +1,0 @@
-
-//create parameter interface
-public interface Sayable1{
-public String say(String name);
-}
